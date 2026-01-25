@@ -11,7 +11,7 @@ I'm a passionate and aspiring software developer from India, deeply enthusiastic
 - 🔭 Working on: **Exploring modern web frameworks and cloud architectures** <!-- TODO: Add your current main project or learning area -->
 - 🌱 Learning: **Advanced concepts in AWS and Docker** <!-- TODO: Add what you're currently learning -->
 - 👯 Looking to collaborate on: **Entry-level Open Source Projects or impactful side projects**
-- 💬 Ask me about: **Web Development, Python scripting, or getting started with cloud services** <!-- TODO: Add your areas of expertise -->
+- 💬 Ask me about: BashScripting, Python scripting, or getting started with cloud services** <!-- TODO: Add your areas of expertise -->
 - ⚡ Fun fact: **I love exploring new hiking trails in my free time!** <!-- TODO: Add a fun fact -->
 
 ## 🛠️ Technology Arsenal
