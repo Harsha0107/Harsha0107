@@ -97,20 +97,6 @@ I prioritize:
 
 ---
 
-<!-- ===================== GITHUB STATS ===================== -->
-
-## 📊 GitHub Performance
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=dark&hide_border=true" height="160"/>
-
-<img src="https://github-profile-trophy.vercel.app?username=YOUR-USERNAME&theme=darkhub&column=4&margin-w=8&margin-h=8" height="160"/>
-
-</div>
-
----
-
 <!-- ===================== CONTRIBUTION GRAPH ===================== -->
 
 ## 🎮 Contribution Activity
@@ -132,24 +118,6 @@ I prioritize:
 - CI/CD automation at scale  
 - Cloud-native system design  
 - Internship / Entry-Level DevOps role preparation  
-
----
-
-<!-- ===================== CONTACT ===================== -->
-
-## 📬 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR-EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
 
 ---
 
