@@ -8,137 +8,21 @@
 
 ---
 
-<!-- ===================== ABOUT ===================== -->
+# 💫 About Me:
+I am an MCA student specializing in DevOps engineering and cloud infrastructure. I am actively building hands-on expertise in automation, CI/CD pipelines, containerization, and Infrastructure as Code to design scalable, secure, and production-ready systems.<br><br>My learning approach is project-driven. I focus on implementing real-world deployments rather than relying solely on theory. I work extensively with Linux, Docker, Kubernetes, Terraform, and AWS to understand how modern infrastructure is designed, automated, and maintained in cloud environments.<br><br>I am committed to becoming a deployment-ready DevOps Engineer capable of contributing to high-performance engineering teams and delivering reliable, efficient, and scalable infrastructure solutions.
 
-## 🚀 About Me
 
-I am an MCA student specializing in DevOps engineering and cloud infrastructure.  
-My focus is on building production-grade systems using automation, containerization, and Infrastructure as Code.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harshavardhangovindarajula/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshavardhangovindarajula@gmail.com) 
 
-I aim to become a deployment-ready DevOps Engineer capable of designing scalable, resilient, and performance-driven systems for high-growth technology teams.
-
-I prioritize:
-- Real-world projects  
-- Infrastructure automation  
-- CI/CD implementation  
-- Cloud-native architecture  
-
----
-
-<!-- ===================== TECH STACK ===================== -->
-
-## 🛠 Core Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux" height="55"/>
-<img src="https://skillicons.dev/icons?i=git" height="55"/>
-<img src="https://skillicons.dev/icons?i=docker" height="55"/>
-<img src="https://skillicons.dev/icons?i=kubernetes" height="55"/>
-<img src="https://skillicons.dev/icons?i=terraform" height="55"/>
-<img src="https://skillicons.dev/icons?i=jenkins" height="55"/>
-<img src="https://skillicons.dev/icons?i=aws" height="55"/>
-<img src="https://skillicons.dev/icons?i=bash" height="55"/>
-<img src="https://skillicons.dev/icons?i=python" height="55"/>
-
-</div>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Harsha0107&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Harsha0107&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha0107&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Harsha0107&icon=4&color=0)](https://visitcount.itsvg.in)
 
-<!-- ===================== ROADMAP ===================== -->
-
-## 📈 DevOps Roadmap Progress
-
-### 🔹 Foundations
-- Linux Fundamentals         ██████████ 100%
-- Networking Basics          █████████░ 90%
-- Git & Version Control      ██████████ 100%
-
-### 🔹 Containerization
-- Docker                     █████████░ 90%
-- Image Optimization         ████████░░ 75%
-
-### 🔹 Orchestration
-- Kubernetes Core Concepts   ███████░░░ 70%
-- Deployments & Services     ███████░░░ 70%
-
-### 🔹 CI/CD
-- Jenkins Pipelines          ████████░░ 80%
-- GitHub Actions             ██████░░░░ 60%
-
-### 🔹 Infrastructure as Code
-- Terraform Basics           ████████░░ 80%
-- Modular Infrastructure     ██████░░░░ 60%
-
-### 🔹 Cloud Engineering
-- AWS EC2 / S3 / IAM         ████████░░ 80%
-- Cloud Architecture Design  ██████░░░░ 60%
-
----
-
-<!-- ===================== PROJECTS ===================== -->
-
-## 📂 Featured DevOps Projects
-
-### 🔹 Static Website Hosting on AWS S3
-- Configured S3 static website hosting
-- Managed bucket policies & permissions
-- Implemented secure public access configuration
-
-### 🔹 CI/CD Pipeline Automation
-- Automated build & deployment using Jenkins
-- Dockerized application
-- Deployed to cloud infrastructure
-
-### 🔹 Kubernetes Deployment Project
-- YAML-based deployment configuration
-- Implemented scaling and rolling updates
-- Service exposure & internal networking
-
----
-
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
-
-## 🎮 Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/pacman-contribution-graph.svg">
-  <img alt="Contribution Graph" src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
-<!-- ===================== CURRENT FOCUS ===================== -->
-
-## 🎯 Current Focus
-
-- Production-grade Kubernetes deployments  
-- Advanced Terraform module architecture  
-- CI/CD automation at scale  
-- Cloud-native system design  
-- Internship / Entry-Level DevOps role preparation  
-
----
-
-<!-- ===================== CAREER OBJECTIVE ===================== -->
-
-## ⚡ Career Objective
-
-To secure a high-growth DevOps position where I can design scalable infrastructure, automate deployment workflows, and contribute to high-performance engineering environments.
-
----
-
-## 📬 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/harshavardhangovindarajula">
-<img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:harshavardhangovindarajula@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
