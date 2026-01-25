@@ -1,6 +1,6 @@
 # Hi there! 👾 I'm Harsha Vardhan Govindarajula
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Software+Developer;Full+Stack+Enthusiast;Open+Source+Learner;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Deveops+Engineer;Open+Source+Learner;Problem+Solver)](https://git.io/typing-svg)
 
 ---
 
