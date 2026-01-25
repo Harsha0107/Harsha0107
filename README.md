@@ -8,21 +8,37 @@
 
 ---
 
-# 💫 About Me:
-I am an MCA student specializing in DevOps engineering and cloud infrastructure. I am actively building hands-on expertise in automation, CI/CD pipelines, containerization, and Infrastructure as Code to design scalable, secure, and production-ready systems.<br><br>My learning approach is project-driven. I focus on implementing real-world deployments rather than relying solely on theory. I work extensively with Linux, Docker, Kubernetes, Terraform, and AWS to understand how modern infrastructure is designed, automated, and maintained in cloud environments.<br><br>I am committed to becoming a deployment-ready DevOps Engineer capable of contributing to high-performance engineering teams and delivering reliable, efficient, and scalable infrastructure solutions.
+## About Me
 
+I am Harsha Vardhan Govindarajula a DevOps-focused Integrated MCA student at Parul University, preparing for high-performance engineering roles at globally scaled technology companies. My core interests lie in distributed systems, cloud-native architecture, infrastructure as code, CI/CD automation, and container orchestration.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harshavardhangovindarajula/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshavardhangovindarajula@gmail.com) 
+I am building strong fundamentals in Linux systems, networking, Git workflows, Docker, Kubernetes, and cloud platforms, while simultaneously sharpening problem-solving skills through Data Structures and Algorithms.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Harsha0107&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Harsha0107&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha0107&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+I am particularly interested in designing resilient, scalable, and observable systems that operate efficiently at scale. My long-term objective is to engineer automation-driven infrastructure solutions that support millions of users with high availability and minimal operational overhead.
 
----
-[![](https://visitcount.itsvg.in/api?id=Harsha0107&icon=4&color=0)](https://visitcount.itsvg.in)
+## My Skills
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff"> 
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"> 
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white"> 
+<img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"> 
+<img src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff"> 
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white"> 
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff"> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
+
+## GitHub Stats
+
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=brandonc123&theme=dark&show_icons=true&count_private=true">
+
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=brandonc123&theme=dark"></td><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=brandonc123&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+
+## Connect with me
+
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/harshavardhangovindarajula/" target="_blank">Harsha Vardhan Govindarajula</a> Email: harshavardhangovindarajula@gmail.com</p>
