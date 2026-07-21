@@ -1,90 +1,110 @@
-# Hi there! 👾 I'm Harsha Vardhan Govindarajula
+<h1 align="center">Hi 👋, I'm Harsha Vardhan</h1>
+<h3 align="center">Aspiring DevOps Engineer | AWS Cloud Enthusiast | Linux | Docker | Kubernetes</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Deveops+Engineer;Open+Source+Learner;Problem+Solver)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
-I'm a passionate and aspiring software developer from India, deeply enthusiastic about crafting efficient and scalable solutions. My journey in tech is driven by curiosity and a desire to build impactful applications that solve real-world problems. I thrive on learning new technologies and contributing to the vibrant developer community.
+## 🚀 About Me
 
-## 🎯 Current Focus
+- 🌱 Currently learning **Advanced DevOps & AWS**
+- ☁️ Building real-world **Cloud & DevOps Projects**
+- 🐳 Passionate about **Docker, Kubernetes, Terraform & CI/CD**
+- 💻 Love automating infrastructure and deployments
+- 🎯 Goal: Become a Senior DevOps Engineer and Freelancer
+- 📍 Andhra Pradesh, India
 
-- 🔭 Working on: **Exploring modern web frameworks and cloud architectures** <!-- TODO: Add your current main project or learning area -->
-- 🌱 Learning: **Advanced concepts in AWS and Docker** <!-- TODO: Add what you're currently learning -->
-- 👯 Looking to collaborate on: **Entry-level Open Source Projects or impactful side projects**
-- 💬 Ask me about: BashScripting, Python scripting, or getting started with cloud services** <!-- TODO: Add your areas of expertise -->
-- ⚡ Fun fact: **I love exploring new hiking trails in my free time!** <!-- TODO: Add a fun fact -->
+---
 
-## 🛠️ Technology Arsenal
+## 🛠️ Tech Stack
 
-My toolkit is constantly evolving as I embrace new challenges and learn cutting-edge technologies. Here are some of the tools and languages I enjoy working with:
+### Cloud
+- AWS (EC2, S3, IAM, VPC, RDS, Route53, CloudWatch, ECR)
 
-### 💻 Programming Languages
+### DevOps
+- Docker
+- GitHub Actions
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Operating Systems
+- Linux (Ubuntu)
+- Windows
 
+### Version Control
+- Git
+- GitHub
 
-<!-- TODO: Add/remove languages based on your actual skills -->
+### Monitoring
+- Prometheus
+- Grafana
 
-<!-- TODO: Add your actual frameworks -->
+### Scripting
+- Bash
+- Python
 
-### ☁️ Cloud & DevOps
+### Web
+- HTML
+- CSS
+- JavaScript
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+---
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+## 📂 Featured Projects
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-<!-- TODO: Add your cloud/devops tools -->
+### 🚀 AWS DevOps Capstone
+- CI/CD Pipeline
+- Dockerized Application
+- Jenkins Automation
+- Kubernetes Deployment
+- Monitoring with Prometheus & Grafana
+- Infrastructure as Code using Terraform
 
-### 🗄️ Databases
+---
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 🐳 Docker Projects
+- Multi-stage Docker Builds
+- Docker Compose Applications
+- Custom Docker Images
 
+---
 
-<!-- TODO: Add your databases -->
+### ☁️ AWS Projects
+- EC2 Deployment
+- Static Website Hosting on S3
+- IAM Security
+- VPC Setup
+- Auto Scaling
 
-## 📊 GitHub Analytics Dashboard
+---
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harsha0107&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha0107&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+## 📈 GitHub Stats
 
+![Harsha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harsha0107&layout=compact&theme=tokyonight)
 
-### 📈 Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsha0107&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
 
+---
 
+## 🏆 GitHub Trophies
 
-### 📅 Contribution Calendar
-<img src="https://ghchart.rshah.org/409ba5/Harsha0107" alt="Contribution Calendar" width="100%"/>
+[![Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-</div>
+---
 
-## 🎓 Certifications & Achievements
-<!-- TODO: Add your certifications, courses, achievements. Examples below: -->
-- 🏆 AWS solution architecture Certification (FORAGE)
+## 📫 Connect With Me
 
-## 🎯 2026 Goals
-<!-- TODO: Update with your current year goals -->
-- 🚀 Contribute to at least 5 open source projects
-- 📚 Deepen knowledge in cloud infrastructure (AWS/Azure)
+- 💼 LinkedIn: https://www.linkedin.com/in/harshavardhangovindarajula
+- 📧 Email: Harshaavrdhangovindarajula@gmail.com
 
+---
 
-## 🌐 Let's Connect & Collaborate
+## 💡 Quote
 
-I'm always open to collaborating on interesting projects, sharing knowledge, or just having a chat about tech!
+> "Automate everything. Learn continuously. Build relentlessly."
 
-<div align="center">
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshavardhangovindarajula) <!-- TODO: Add your LinkedIn profile link -->
-
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshavardhangovindarajulaemail@gmai.com) <!-- TODO: Add your email address -->
-
-
-
-  ### 🚀 "Code is poetry, and every commit tells a story"
-
-
+⭐ **Thanks for visiting my profile!**
