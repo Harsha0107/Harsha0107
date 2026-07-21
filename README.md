@@ -80,15 +80,6 @@
   </tr>
 </table>
 
-## GitHub Highlights
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsha0107&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=14B8A6&text_color=0F172A&cache_seconds=1800" alt="GitHub stats" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harsha0107&theme=github_dark&utcOffset=5.5" alt="Productive time card" height="165" />
-
-</div>
-
 ## DevOps Focus
 
 <div align="center">
