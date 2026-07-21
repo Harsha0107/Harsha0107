@@ -72,7 +72,12 @@
   <br />
   <br />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha0107&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=0F172A&langs_count=6&hide=html,css,javascript&cache_seconds=1800" alt="Repository language overview" height="165" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2400&pause=700&color=14B8A6&center=true&vCenter=true&width=760&lines=Bash+Scripting+for+Automation;Docker+for+Containerized+Apps;GitHub+Actions+for+CI%2FCD+Pipelines;DevOps+Projects+with+Cloud+Workflows" alt="Animated DevOps focus text" />
+
+  <br />
+  <br />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsha0107&theme=react-dark&hide_border=true&area=true&custom_title=DevOps%20Contribution%20Activity" alt="Animated contribution activity graph" width="95%" />
 
 </div>
 
