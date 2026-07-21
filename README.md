@@ -58,7 +58,21 @@
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=Harsha0107&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=14B8A6&text_color=0F172A&cache_seconds=1800" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha0107&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=0F172A&cache_seconds=1800" alt="Top languages" height="165" />
+
+</div>
+
+## DevOps Focus
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Bash%20Scripting-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash scripting" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+
+  <br />
+  <br />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha0107&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=0F172A&langs_count=6&hide=html,css,javascript&cache_seconds=1800" alt="Repository language overview" height="165" />
 
 </div>
 
