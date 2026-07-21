@@ -1,6 +1,8 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,45:2563EB,100:14B8A6&text=Harshavardhan%20Govindarajula&fontColor=FFFFFF&fontSize=38&fontAlignY=38&desc=Aspiring%20DevOps%20Engineer%20%7C%20AWS%20Cloud%20%7C%20CI%2FCD%20Automation&descAlignY=60&animation=fadeIn" alt="Animated profile banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:020617,35:0F172A,70:2563EB,100:14B8A6&text=Harshavardhan%20Govindarajula&fontColor=FFFFFF&fontSize=40&fontAlignY=36&desc=Aspiring%20DevOps%20Engineer%20%7C%20AWS%20Cloud%20%7C%20CI%2FCD%20Automation&descAlignY=58&animation=fadeIn" alt="Animated profile banner" width="100%" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=800&color=14B8A6&center=true&vCenter=true&width=780&lines=Automating+Infrastructure;Building+CI%2FCD+Pipelines;Containerizing+Applications;Learning+Cloud-Native+DevOps" alt="Animated DevOps headline" />
 
 </div>
 
@@ -16,8 +18,8 @@
       <p>
         I am an aspiring DevOps Engineer focused on cloud infrastructure,
         automation, CI/CD pipelines, containerization, and reliable deployment
-        workflows. I enjoy building practical DevOps projects that connect
-        development, operations, and scalable cloud delivery.
+        workflows. I build practical DevOps projects that connect development,
+        operations, and scalable cloud delivery.
       </p>
       <p>
         My goal is to grow into a strong DevOps professional by mastering AWS,
@@ -25,13 +27,19 @@
         production-ready automation practices.
       </p>
       <p>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=900&color=2563EB&vCenter=true&width=620&lines=Aspiring+DevOps+Engineer;AWS+Cloud+and+Linux+Learner;Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+with+Jenkins+and+GitHub+Actions" alt="Animated typing text" />
+        <img src="https://img.shields.io/badge/Focus-DevOps%20Engineering-2563EB?style=for-the-badge" alt="DevOps focus badge" />
+        <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS badge" />
+        <img src="https://img.shields.io/badge/Automation-CI%2FCD-14B8A6?style=for-the-badge" alt="CI/CD badge" />
       </p>
     </td>
   </tr>
 </table>
 
----
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:14B8A6,50:2563EB,100:0F172A" alt="Section divider" width="100%" />
+
+</div>
 
 ## Professional Focus
 
@@ -53,11 +61,31 @@
 
 </div>
 
+<br />
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <strong>Automation</strong><br />
+      Bash scripting, GitHub Actions, Jenkins
+    </td>
+    <td align="center" width="33%">
+      <strong>Containers</strong><br />
+      Docker, Kubernetes, deployment workflows
+    </td>
+    <td align="center" width="33%">
+      <strong>Cloud & IaC</strong><br />
+      AWS, Terraform, Ansible, Linux
+    </td>
+  </tr>
+</table>
+
 ## GitHub Highlights
 
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=Harsha0107&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=14B8A6&text_color=0F172A&cache_seconds=1800" alt="GitHub stats" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harsha0107&theme=github_dark&utcOffset=5.5" alt="Productive time card" height="165" />
 
 </div>
 
@@ -78,6 +106,14 @@
   <br />
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsha0107&theme=react-dark&hide_border=true&area=true&custom_title=DevOps%20Contribution%20Activity" alt="Animated contribution activity graph" width="95%" />
+
+</div>
+
+## DevOps Workflow
+
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2200&pause=500&color=2563EB&center=true&vCenter=true&width=820&lines=Code+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Containerize+%E2%86%92+Deploy;Linux+%E2%86%92+Bash+%E2%86%92+Docker+%E2%86%92+GitHub+Actions+%E2%86%92+Cloud;Plan+clearly%2C+automate+carefully%2C+deploy+reliably" alt="Animated DevOps workflow" />
 
 </div>
 
