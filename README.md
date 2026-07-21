@@ -1,16 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,45:2563EB,100:14B8A6&text=Harshavardhan%20Govindarajula&fontColor=FFFFFF&fontSize=38&fontAlignY=38&desc=Software%20Developer%20%7C%20Problem%20Solver%20%7C%20Lifelong%20Learner&descAlignY=60&animation=fadeIn" alt="Animated profile banner" width="100%" />
-
-  <a href="mailto:harshavardhangovindarajula@gmail.com">
-    <img src="https://img.shields.io/badge/Email-harshavardhangovindarajula%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/harshavardhangovindarajula">
-    <img src="https://img.shields.io/badge/LinkedIn-Harshavardhan%20Govindarajula-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
-  </a>
-  <a href="tel:+918309302782">
-    <img src="https://img.shields.io/badge/Mobile-8309302782-16A34A?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Mobile badge" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,45:2563EB,100:14B8A6&text=Harshavardhan%20Govindarajula&fontColor=FFFFFF&fontSize=38&fontAlignY=38&desc=Aspiring%20DevOps%20Engineer%20%7C%20AWS%20Cloud%20%7C%20CI%2FCD%20Automation&descAlignY=60&animation=fadeIn" alt="Animated profile banner" width="100%" />
 
 </div>
 
@@ -24,16 +14,18 @@
     <td width="66%">
       <h2>Hi, I'm Harshavardhan.</h2>
       <p>
-        I build clean, purposeful software with a focus on practical problem solving,
-        thoughtful user experience, and continuous improvement. I enjoy turning ideas
-        into reliable digital products and learning fast across modern engineering tools.
+        I am an aspiring DevOps Engineer focused on cloud infrastructure,
+        automation, CI/CD pipelines, containerization, and reliable deployment
+        workflows. I enjoy building practical DevOps projects that connect
+        development, operations, and scalable cloud delivery.
       </p>
       <p>
-        My work style is simple: understand the problem clearly, design with intent,
-        write maintainable code, and keep improving until the result feels polished.
+        My goal is to grow into a strong DevOps professional by mastering AWS,
+        Linux, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, and
+        production-ready automation practices.
       </p>
       <p>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=900&color=2563EB&vCenter=true&width=620&lines=Developer+focused+on+clean+solutions;Always+learning+and+building;Open+to+collaboration+and+new+opportunities" alt="Animated typing text" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=900&color=2563EB&vCenter=true&width=620&lines=Aspiring+DevOps+Engineer;AWS+Cloud+and+Linux+Learner;Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+with+Jenkins+and+GitHub+Actions" alt="Animated typing text" />
       </p>
     </td>
   </tr>
@@ -43,13 +35,13 @@
 
 ## Professional Focus
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=harshavardhangovindarajula&theme=transparent&hide_border=true&ring=2563EB&fire=14B8A6&currStreakLabel=0F172A" alt="GitHub streak stats" width="390" />
+<img align="right" src="https://streak-stats.demolab.com?user=Harsha0107&theme=transparent&hide_border=true&ring=2563EB&fire=14B8A6&currStreakLabel=0F172A" alt="GitHub streak stats" width="390" />
 
-- Building responsive, user-focused web experiences
-- Writing readable, maintainable, and scalable code
-- Learning modern development workflows and best practices
-- Solving real-world problems with clarity and consistency
-- Collaborating with people who care about quality
+- Learning AWS cloud services and DevOps workflows
+- Building Dockerized applications and deployment pipelines
+- Practicing Kubernetes deployments, services, and configuration
+- Automating infrastructure with Terraform and Ansible
+- Improving Linux, Git, GitHub Actions, and Jenkins skills
 
 <br clear="right" />
 
@@ -57,7 +49,7 @@
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,git,github,vscode&perline=10" alt="Technology icons" />
+  <img src="https://skillicons.dev/icons?i=aws,linux,ubuntu,docker,kubernetes,terraform,ansible,jenkins,githubactions,git,github,bash,python,vscode&perline=7" alt="DevOps technology icons" />
 
 </div>
 
@@ -65,18 +57,18 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=harshavardhangovindarajula&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=14B8A6&text_color=0F172A" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshavardhangovindarajula&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=0F172A" alt="Top languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsha0107&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=14B8A6&text_color=0F172A&cache_seconds=1800" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha0107&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=0F172A&cache_seconds=1800" alt="Top languages" height="165" />
 
 </div>
 
 ## Current Mindset
 
 ```text
-Learn consistently.
-Build intentionally.
-Improve every project.
-Stay curious.
+Learn DevOps daily.
+Automate repeated work.
+Build cloud-ready projects.
+Deploy with confidence.
 ```
 
 ## Connect With Me
