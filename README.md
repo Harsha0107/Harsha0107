@@ -1,201 +1,104 @@
 <div align="center">
 
-# Hi 👋, I'm Harsha Vardhan
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,45:2563EB,100:14B8A6&text=Harshavardhan%20Govindarajula&fontColor=FFFFFF&fontSize=38&fontAlignY=38&desc=Software%20Developer%20%7C%20Problem%20Solver%20%7C%20Lifelong%20Learner&descAlignY=60&animation=fadeIn" alt="Animated profile banner" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=Aspiring+DevOps+Engineer;AWS+Cloud+Enthusiast;Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Automation+Expert;Linux+%7C+GitHub+Actions+%7C+Jenkins;Always+Learning+New+Technologies+🚀" alt="Typing SVG" />
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  <a href="mailto:harshavardhangovindarajula@gmail.com">
+    <img src="https://img.shields.io/badge/Email-harshavardhangovindarajula%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/harshavardhangovindarajula">
+    <img src="https://img.shields.io/badge/LinkedIn-Harshavardhan%20Govindarajula-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
+  </a>
+  <a href="tel:+918309302782">
+    <img src="https://img.shields.io/badge/Mobile-8309302782-16A34A?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Mobile badge" />
+  </a>
 
 </div>
 
----
+<br />
 
-# 💫 About Me
-
-<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-🚀 Aspiring **DevOps Engineer**
-
-☁️ Passionate about **AWS Cloud Computing**
-
-🐳 Love working with **Docker & Kubernetes**
-
-⚙️ Building **CI/CD Pipelines**
-
-🌱 Currently Learning
-
-- Kubernetes
-- Terraform
-- Ansible
-- AWS DevOps
-- GitHub Actions
-
-🎯 2026 Goals
-
-- ✅ Become AWS Certified
-- ✅ Master Kubernetes
-- ✅ Build 25+ DevOps Projects
-- ✅ Start DevOps Freelancing
-- ✅ Land a DevOps Engineer Role
+<table>
+  <tr>
+    <td width="34%" align="center">
+      <img src="./assets/profile.png" alt="Harshavardhan Govindarajula" width="260" />
+    </td>
+    <td width="66%">
+      <h2>Hi, I'm Harshavardhan.</h2>
+      <p>
+        I build clean, purposeful software with a focus on practical problem solving,
+        thoughtful user experience, and continuous improvement. I enjoy turning ideas
+        into reliable digital products and learning fast across modern engineering tools.
+      </p>
+      <p>
+        My work style is simple: understand the problem clearly, design with intent,
+        write maintainable code, and keep improving until the result feels polished.
+      </p>
+      <p>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=900&color=2563EB&vCenter=true&width=620&lines=Developer+focused+on+clean+solutions;Always+learning+and+building;Open+to+collaboration+and+new+opportunities" alt="Animated typing text" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-# ⚡ Tech Stack
+## Professional Focus
 
-## ☁️ Cloud
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=harshavardhangovindarajula&theme=transparent&hide_border=true&ring=2563EB&fire=14B8A6&currStreakLabel=0F172A" alt="GitHub streak stats" width="390" />
 
-![AWS](https://skillicons.dev/icons?i=aws)
+- Building responsive, user-focused web experiences
+- Writing readable, maintainable, and scalable code
+- Learning modern development workflows and best practices
+- Solving real-world problems with clarity and consistency
+- Collaborating with people who care about quality
 
-## 🚀 DevOps
+<br clear="right" />
 
-![Docker](https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,githubactions)
-
-## 💻 Programming
-
-![Python](https://skillicons.dev/icons?i=python,bash,js)
-
-## 🌐 Web
-
-![HTML](https://skillicons.dev/icons?i=html,css,js)
-
-## 🖥️ Operating Systems
-
-![Linux](https://skillicons.dev/icons?i=linux,ubuntu)
-
-## 🔧 Tools
-
-![Git](https://skillicons.dev/icons?i=git,github,vscode)
-
----
-
-# 🚀 Featured Projects
-
-## ☁️ AWS DevOps Capstone
-
-- Dockerized Application
-- Jenkins CI/CD
-- Kubernetes Deployment
-- AWS EC2
-- AWS ECR
-- Terraform Infrastructure
-- Monitoring using Prometheus & Grafana
-
----
-
-## 🐳 Docker Projects
-
-- Docker Compose
-- Multi-stage Dockerfiles
-- Custom Images
-- Container Networking
-
----
-
-## ☸ Kubernetes
-
-- Deployments
-- Services
-- ConfigMaps
-- Secrets
-- Ingress
-- Helm
-
----
-
-# 📊 GitHub Analytics
+## Tech Stack
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,git,github,vscode&perline=10" alt="Technology icons" />
 
 </div>
 
----
-
-# 🔥 GitHub Streak
+## GitHub Highlights
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=harshavardhangovindarajula&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=14B8A6&text_color=0F172A" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshavardhangovindarajula&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=0F172A" alt="Top languages" height="165" />
 
 </div>
 
----
+## Current Mindset
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&column=4"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true"/>
-
-</div>
-
----
-
-# 🌍 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
-
-# 💻 Currently Working On
-
-```yaml
-Learning:
-  - AWS DevOps
-  - Terraform
-  - Kubernetes
-  - GitHub Actions
-  - Jenkins
-
-Building:
-  - AWS DevOps Capstone
-  - CI/CD Pipelines
-  - Docker Projects
-  - Kubernetes Labs
-
-Goal:
-  - Senior DevOps Engineer 🚀
+```text
+Learn consistently.
+Build intentionally.
+Improve every project.
+Stay curious.
 ```
 
----
+## Connect With Me
 
 <div align="center">
 
-## 💬 DevOps Quote
+  <a href="mailto:harshavardhangovindarajula@gmail.com">
+    <img src="https://img.shields.io/badge/Send%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send mail" />
+  </a>
+  <a href="https://www.linkedin.com/in/harshavardhangovindarajula">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="tel:+918309302782">
+    <img src="https://img.shields.io/badge/Call-8309302782-16A34A?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Call mobile number" />
+  </a>
 
-> **"Automate everything that can be automated, so you can focus on building what matters."**
+</div>
 
----
+<br />
 
-### ⭐ Thanks for visiting my profile!
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:0077FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:14B8A6,55:2563EB,100:0F172A" alt="Animated footer wave" width="100%" />
 
 </div>
